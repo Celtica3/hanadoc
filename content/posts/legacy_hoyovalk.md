@@ -17,4 +17,6 @@ else it will return the character profile
 
 query name cannot be too ambiguous
 
-Hoyolab account must be setup up before using this command [[legacy_hoyovalk_setup]]
+Hoyolab account must be setup up before using this command 
+
+see {{< ref "legacy_hoyovalk_setup" >}}
