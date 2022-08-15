@@ -1,10 +1,10 @@
 ---
 
-title: "Contribute"
+title: "Code Contribute"
 
 date: 2022-08-15
 
-weight: -100
+weight: 100
 
 tags: ['dev']
 ---
