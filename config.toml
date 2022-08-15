@@ -1,0 +1,8 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Higanhana Documentation'
+theme = "etch"
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"

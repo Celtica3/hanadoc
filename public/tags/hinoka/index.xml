@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hinoka on Higanhana Documentation</title>
+    <link>/tags/hinoka/</link>
+    <description>Recent content in Hinoka on Higanhana Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/hinoka/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>[2022] Armanda Chibis</title>
+      <link>/posts/armanda_2022/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/armanda_2022/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/higanhana_2022_chibi/2022-03-17-14-13-17_0-56BAD.png&#34; alt=&#34;cover&#34;&gt;&lt;/p&gt;
+&lt;p&gt;see more at &lt;a href=&#34;https://hanadoc.c0010.repl.co/higanhana_2022_chibi.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>About Hinoka</title>
+      <link>/posts/about_hinoka/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/about_hinoka/</guid>
+      <description>&lt;p&gt;This post will be about Hinoka&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/hinoka.png&#34; alt=&#34;hinoka&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>About Tsukika</title>
+      <link>/posts/about_tsukika/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/about_tsukika/</guid>
+      <description>&lt;p&gt;This post will be about Tsukika&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/tsukika.png&#34; alt=&#34;tsukika&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>cmd: how to use honkai wiki commands</title>
+      <link>/posts/legacy_wiki_cmd/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/legacy_wiki_cmd/</guid>
+      <description>&lt;p&gt;These are the available commands&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/wiki/1.png&#34; alt=&#34;cmds&#34;&gt;&lt;/p&gt;
+&lt;p&gt;What wiki-battlesuit will display&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/wiki/2.png&#34; alt=&#34;wiki-battlesuit-ex&#34;&gt;&lt;/p&gt;
+&lt;p&gt;What wiki-stigmata will display&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/wiki/3.png&#34; alt=&#34;wiki-stigmata-ex&#34;&gt;&lt;/p&gt;
+&lt;p&gt;(spelled wrong though)&lt;/p&gt;
+&lt;p&gt;How to query stigmata&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/wiki/4.png&#34; alt=&#34;stigmata-query&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+  </channel>
+</rss>
