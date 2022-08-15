@@ -19,4 +19,4 @@ query name cannot be too ambiguous
 
 Hoyolab account must be setup up before using this command 
 
-see {{< ref "legacy_hoyovalk_setup" >}}
+see [here]({{< ref "legacy_hoyovalk_setup" >}})
