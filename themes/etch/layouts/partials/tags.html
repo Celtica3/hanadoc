@@ -1,3 +1,6 @@
+
+<div style="display: table; margin-right: auto; margin-left: auto;">
+
 {{ $taxonomy := "tags" }} {{ with .Param $taxonomy }}
 <ul>
   {{ range $index, $tag := . }} 
@@ -8,3 +11,4 @@
   {{- end -}} {{- end -}}
 </ul>
 {{ end }}
+</div>
