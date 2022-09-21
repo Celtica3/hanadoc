@@ -1,3 +1,6 @@
 [submodule "content"]
 	path = content
 	url = https://github.com/HiganHana/hanadoc-posts.git
+[submodule "hanadoc-static"]
+	path = static
+	url = https://github.com/HiganHana/hanadoc-static.git
